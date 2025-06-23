@@ -1,0 +1,1 @@
+## one hot encoding , label encoding etc 
