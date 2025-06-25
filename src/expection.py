@@ -1,6 +1,6 @@
 import sys 
 ## in python provides various functions and variables that are used to manipulate different parts of the python runtime enviroment ...
-import logging
+from src.logger import logging
 
 def error_message_detail(error,error_detail:sys):
     _,_,exc_tb=error_detail.exc_info()
